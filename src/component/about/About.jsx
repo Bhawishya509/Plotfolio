@@ -61,7 +61,7 @@ const About = (props) => {
               {/**/}
               <Button className="cv" variant="contained" >
               <a style={{color:"white",fontWeight:"600",textDecoration:"none"}} 
-              href="https://drive.google.com/file/d/1VJe725CyRJB9mS4i9OWo_EeLlz8OKjgZ/view ">
+              href="https://drive.google.com/file/d/1YAvMYV_K2eyPXjbcchF0isQOobuUz-iX/view?usp=sharing ">
               Download CV</a> 
               </Button>
              
