@@ -1,0 +1,67 @@
+.contactmainblock
+{
+    height: 100vh;
+    width: 100%;
+    padding-top: 8%;
+    background-image: linear-gradient(white,rgb(208, 201, 201));
+}
+.ContactusBlock
+{
+    height:12%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contactme
+{
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.messagememainblock
+{
+    height: 88%;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.messagemainblock
+{
+    width: 48%;
+    height:100%;
+    padding: 20px;
+}
+.contactdetail
+{
+    width: 40%;
+    height:80%;
+    padding: 20px;
+}
+.contactparagrafh
+{
+    box-sizing: border-box;
+    margin-top: 3%;
+    font-weight: 600;
+    color: rgb(69, 70, 72);
+}
+.contactlogo
+{
+    height: 70%;
+    width: 100%;
+    overflow-y: auto;
+}
+.contactlogo::-webkit-scrollbar {
+    width: 6px;
+    border-radius: 4px;
+    background-color: #191516;
+  }
+  .contactlogo::-webkit-scrollbar-thumb {
+    height: 12px;
+    border-radius: 6px;
+    background-color: rgb(0, 195, 255);
+    
+  }

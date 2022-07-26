@@ -1,0 +1,38 @@
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root {
+  background-color: black !important;
+}
+.logophoto {
+  height: 35px !important;
+  width: 35px !important;
+  margin-right: 10px;
+  box-sizing: border-box;
+  color: orangered;
+}
+.nameclass {
+  font-family: "Roboto Mono", monospace;
+  font-family: "Source Code Pro", monospace;
+  font-size: 3rem;
+  color: hotpink;
+  box-sizing: border-box !important;
+}
+.lastname {
+  margin-top: 24px;
+  box-sizing: border-box;
+}
+.hovers:hover {
+  color: rgb(56, 215, 240);
+}
+.MuiButtonBase-root {
+  visibility: none;
+}
+.css-2uchni {
+  visibility: hidden;
+}
+.nav-link.active {
+  background-image: linear-gradient(
+    rgb(37, 243, 184),
+    rgb(18, 199, 236)
+  ) !important;
+  margin-left: 20px;
+}
+

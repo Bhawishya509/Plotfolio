@@ -1,0 +1,32 @@
+.pad
+{
+    margin-left: 6px;
+    margin-top: 8px;
+    border-radius: 6px !important;
+    height: 15rem;
+    outline: none !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+
+    
+    
+}
+.pad:hover
+{
+    
+    transform:scale(1.1);
+    z-index: 500;
+
+}
+.skel
+{
+    height: 15rem!important;
+    width: 25rem!important;
+    margin-left: 6px;
+    margin-top: 8px;
+    background-color: rgb(200, 200, 200);
+
+
+}

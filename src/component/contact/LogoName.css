@@ -1,0 +1,35 @@
+.div1 {
+  padding-left: 5px;
+  padding-right: 5px;
+  height: 20%;
+  width: fit-content;
+  display: flex;
+  border-radius: 6px;
+  justify-content: space-between;
+  margin-top: 6px;
+  box-sizing: border-box;
+}
+
+.div1logo {
+  font-size: 2rem !important;
+  margin-top: 5px;
+  color: rgb(247, 19, 95);
+}
+.nameclasss {
+  height: 100%;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.nameclasss2,
+.nameclasss3 {
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+}
+.nameclasss2:hover{
+    color: black;
+}
+.nameclasss3:hover{
+    color: black;
+}

@@ -1,0 +1,51 @@
+.dynamicNameBlock {
+  height: 40%;
+  box-sizing: border-box;
+  width: 50%;
+  margin-top: 15%;
+  color: white;
+  font-weight: 600;
+  padding-left: 8px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.mynameis {
+  font-family: "Roboto Mono", monospace;
+  font-family: "Source Code Pro", monospace;
+  font-size: 1.2rem;
+  line-height: 10px;
+  padding-left: 5px;
+}
+.name {
+  font-size: 3.5rem;
+}
+.AndIAM {
+  padding-left: 2px;
+  font-family: "Roboto Mono", monospace;
+  font-family: "Source Code Pro", monospace;
+  font-size: 2rem;
+}
+.text {
+  color: rgb(250, 2, 118);
+  font-weight: 800 !important;
+}
+.photo
+{
+  height: 80%;
+  border-width: 40%;
+}
+
+.hireme {
+  width: fit-content;
+  box-sizing: border-box !important;
+  margin-top: 5% !important;
+  background-image: linear-gradient(rgb(0, 195, 113), rgb(24, 153, 217));
+  font-family: "Roboto Mono", monospace;
+  font-family: "Source Code Pro", monospace;
+}
+.hireme:hover {
+  background-image: none;
+  background-color: purple !important;
+}
