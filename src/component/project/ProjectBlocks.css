@@ -27,6 +27,10 @@
     margin-left: 6px;
     margin-top: 8px;
     background-color: rgb(200, 200, 200);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
 
 
 }
