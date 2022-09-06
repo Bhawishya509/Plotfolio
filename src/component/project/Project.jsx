@@ -11,6 +11,7 @@ const Project = (props) => {
   const bs7 = new URL("../../img/education.png", import.meta.url);
   const bs8 = new URL("../../img/pet.png", import.meta.url);
   const bs9 = new URL("../../img/food.png", import.meta.url);
+    const bs10 = new URL("../../img/gallery.png", import.meta.url);
   return (
     <>
       {props.nav}
@@ -50,6 +51,12 @@ const Project = (props) => {
             val={1}
             link={" https://plotfolio.vercel.app/"}
             img={bs6}
+          />
+              
+            <Projectblocks
+            val={1}
+            link={"https://dribbble.com/tags/responsive_image_gallery"}
+            img={bs10}
           />
 
           <Projectblocks
