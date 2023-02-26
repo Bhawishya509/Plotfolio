@@ -58,6 +58,8 @@ const Skill = (props) => {
             <Progress value={80} />
             <span className="skillsname">BootStrap</span>
             <Progress value={60} />
+            <span className="skillsname">FireBase</span>
+            <Progress value={70} />
             <span className="skillsname">PostMan</span>
             <Progress value={60} />
             <span className="skillsname">C++</span>

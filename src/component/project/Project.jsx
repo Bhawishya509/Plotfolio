@@ -3,7 +3,8 @@ import "./Project.css";
 import Projectblocks from "./Projectblocks";
 const Project = (props) => {
   const bs = new URL("../../img/facebookclone.png", import.meta.url);
-  const bs1 = new URL("../../img/paitent.png", import.meta.url);
+  const bs1 = new URL("../../img/ecom.png", import.meta.url);
+  const bs2 = new URL("../../img/paitent.png", import.meta.url);
   const bs3 = new URL("../../img/movice.png", import.meta.url);
   const bs4 = new URL("../../img/weather.png", import.meta.url);
   const bs5 = new URL("../../img/todolist.png", import.meta.url);
@@ -11,7 +12,7 @@ const Project = (props) => {
   const bs7 = new URL("../../img/education.png", import.meta.url);
   const bs8 = new URL("../../img/pet.png", import.meta.url);
   const bs9 = new URL("../../img/food.png", import.meta.url);
-    const bs10 = new URL("../../img/gallery.png", import.meta.url);
+  const bs10 = new URL("../../img/gallery.png", import.meta.url);
   return (
     <>
       {props.nav}
@@ -26,6 +27,12 @@ const Project = (props) => {
             val={1}
             link={"https://playful-marshmallow-370bca.netlify.app/"}
             img={bs}
+          />
+
+          <Projectblocks
+            val={1}
+            link={"https://ecoms-mu.vercel.app/"}
+            img={bs1}
           />
 
           <Projectblocks
@@ -52,8 +59,8 @@ const Project = (props) => {
             link={" https://plotfolio.vercel.app/"}
             img={bs6}
           />
-              
-            <Projectblocks
+
+         <Projectblocks
             val={1}
             link={"https://dribbble.com/tags/responsive_image_gallery"}
             img={bs10}
@@ -62,7 +69,7 @@ const Project = (props) => {
           <Projectblocks
             val={1}
             link={"https://patients-sand.vercel.app"}
-            img={bs1}
+            img={bs2}
           />
 
           <Projectblocks
