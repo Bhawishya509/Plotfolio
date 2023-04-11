@@ -109,3 +109,14 @@
   background-color: purple !important;
   text-transform: capitalize !important;
 }
+
+/* read more link */
+.links
+{
+  text-decoration: none;
+  color: white;
+}
+.links:hover
+{
+  color: white;
+}

@@ -29,15 +29,15 @@ const Skill = (props) => {
                 Html,Css,JavaScript,React-js,Node-js,Mongodb...
               </span>
               And Also Know Some Programing Langauge Like
-              <span style={{ color: "hotpink" }}>C++,Python ,C</span> And Some
+              <span style={{ color: "hotpink" }}> C++,Python ,C</span> And Some
               Version Control Like
-              <span style={{ color: "hotpink" }}>Git,Github</span> So If You
+              <span style={{ color: "hotpink" }}> Git,Github</span> So If You
               Give Me Once Chance So Defnitily I Will Proof My Self And In
               Future I Also Wana Learn Ethical Hacking And Machine Learning As
               Well As AI Devloper. ThankYou So Much..
             </div>
             <Button variant="contained" className="skillbutton">
-              ReadMore
+              <a className="links" href="https://www.linkedin.com/in/bhawishya-singh-50a34a19b/">Read_more</a>
             </Button>
           </div>
 
@@ -49,6 +49,10 @@ const Skill = (props) => {
             <span className="skillsname">JavaScript</span>
             <Progress value={85} />
             <span className="skillsname">React-js</span>
+            <Progress value={75} />
+            <span className="skillsname">Next-js</span>
+            <Progress value={85} />
+            <span className="skillsname">Type-Script</span>
             <Progress value={75} />
             <span className="skillsname">Node-js</span>
             <Progress value={70} />

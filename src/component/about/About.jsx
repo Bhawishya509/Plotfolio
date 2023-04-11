@@ -49,7 +49,7 @@ const About = (props) => {
                 Watch My Project.... And I Also Love To Explore In Technolgy And
                 I Have Positive Attitude If You Give Me One Chance I Will Proof
                 My Self So Its Does'nt Mean I Am Begging You Sir/Mam give Me
-                Job... If You Really Like My Profile Then Obesely You Will Hire
+                Job... If You Really Like My Profile Then definilty You Will Hire
                 Me.. Because Self Respect Is Must Important For Me.. And I Am
                 Fully OpenMinded Boy You Can Ask Me AnyThing Or Disscus With Me Openly I
                 Don't Have Any Issue And About My Hobby I Like Watching
@@ -61,7 +61,7 @@ const About = (props) => {
               {/**/}
               <Button className="cv" variant="contained" >
               <a style={{color:"white",fontWeight:"600",textDecoration:"none"}} 
-              href="https://drive.google.com/file/d/1YAvMYV_K2eyPXjbcchF0isQOobuUz-iX/view?usp=sharing ">
+              href="https://drive.google.com/drive/folders/1TDX89VH83BYzfc94F4F89JdGN98ft-03 ">
               Download CV</a> 
               </Button>
              
