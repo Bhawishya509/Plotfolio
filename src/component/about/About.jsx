@@ -44,18 +44,20 @@ const About = (props) => {
                 <Cursor />
               </div>
               <div className="Aboutme">
-                And I Am good Listener As well As I Have Good UnderStanding
-                Level And I Am Also Quick Learner... I Love Technology You Can
-                Watch My Project.... And I Also Love To Explore In Technolgy And
-                I Have Positive Attitude If You Give Me One Chance I Will Proof
-                My Self So Its Does'nt Mean I Am Begging You Sir/Mam give Me
-                Job... If You Really Like My Profile Then definilty You Will Hire
-                Me.. Because Self Respect Is Must Important For Me.. And I Am
-                Fully OpenMinded Boy You Can Ask Me AnyThing Or Disscus With Me Openly I
-                Don't Have Any Issue And About My Hobby I Like Watching
-                Movices.. And Also Playing Game Like PubG.. And About Future I
-                Want To Become AI Devloper.... Thats All You Can Download My Resume
-                Also... Thankyou So Much Sir/Mam....
+             Hi Sir/Mam,
+
+I’m someone who genuinely loves technology and is always eager to learn and grow. I’m a good listener, have a strong understanding of technical concepts, and I pick up new skills quickly. I’m passionate about exploring different areas of tech, and I take pride in staying up-to-date with the latest trends.
+
+Currently, I’m working as a Software Developer Instructor at AccioJob, where I mentor aspiring developers and help them build real-world skills. This role has deepened both my technical expertise and my ability to communicate complex ideas clearly.
+
+I approach every opportunity with a positive attitude and a strong sense of self-respect. I'm not here to beg for a job — I believe in proving my worth through action. If my profile resonates with you, I’m confident you’ll see the potential I bring.
+
+I'm also open-minded and easy to talk to — feel free to discuss anything with me. In my free time, I enjoy watching movies, playing games like PUBG, and continuously learning. My long-term goal is to become an AI Developer, and I'm putting in the work to get there.
+
+You can view my projects and download my resume — thank you so much for your time and consideration!
+
+Warm regards,
+    Bhawishya Singh
                 
               </div>
               {/**/}
